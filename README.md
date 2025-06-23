@@ -1,6 +1,15 @@
-# Welcome to your Expo app 👋
+# SquadUP 🎮
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+SquadUP is a social platform designed for gamers to easily find and join squads based on the video game they are playing, the number of players needed, and their in-game rank. Think of it as a "pick-up game" environment for online gaming—helping you connect with the right teammates, whenever you want to play.
+
+## What does SquadUP do?
+
+- **Find Squads:** Search for open squads by game title, number of players needed, and rank requirements.
+- **Create Squads:** Start your own squad, set the game, specify how many players you need, and set rank filters.
+- **Join Instantly:** Browse available squads and join with a single tap.
+- **Rank Matching:** Ensure you’re teaming up with players at your skill level for a better gaming experience.
+
+Whether you’re looking for a quick match or building a regular team, SquadUP makes it easy to connect with other gamers who match your play style and skill level.
 
 ## Get started
 
